@@ -1,0 +1,31 @@
+html {
+
+  background-color: rgba(111,111,111, 0.25);
+}
+
+.codes-pane {
+  margin: 10px;
+  padding: 10px;
+}
+
+.normal {
+  color: rgba(0,0,0,1);
+}
+.dimmed {
+  color: rgba(0,0,0,0.4);
+}
+.hide {
+  display: none;
+}
+.MuiTypography-h1, 
+.MuiTypography-h2, 
+.MuiTypography-h3, 
+.MuiTypography-h4, 
+/* .MuiTypography-h6, */
+.MuiTypography-h5
+   {
+  font-family: "Bembo W01", Cardo, serif !important;
+}
+span.MuiTypography-button {
+  margin: 10px;
+}

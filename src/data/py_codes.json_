@@ -1,0 +1,598 @@
+[
+    {
+        "children": [
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "children": [],
+                                "key": "ia1a",
+                                "title": "Elementary, Higher (High School and College)"
+                            },
+                            {
+                                "children": [],
+                                "key": "ia1b",
+                                "title": "Foreign Languages"
+                            },
+                            {
+                                "children": [],
+                                "key": "ia1c",
+                                "title": "Taxation for Public Schools"
+                            },
+                            {
+                                "children": [],
+                                "key": "ia1d",
+                                "title": "Special Endowments"
+                            }],
+                        "key": "ia1",
+                        "title": "Secular"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [],
+                                "key": "ia2a",
+                                "title": "Elementary, Higher (High School and College)"
+                            },
+                            {
+                                "children": [],
+                                "key": "ia2b",
+                                "title": "Foreign Languages"
+                            },
+                            {
+                                "children": [],
+                                "key": "ia2c",
+                                "title": "Contributions"
+                            },
+                            {
+                                "children": [],
+                                "key": "ia2d",
+                                "title": "Special Endowments"
+                            }],
+                        "key": "ia2",
+                        "title": "Parochial"
+                    },
+                    {
+                        "children": [],
+                        "key": "ia3",
+                        "title": "Adult Education"
+                    }],
+                "key": "ia",
+                "title": "Education"
+            },
+            {
+                "children": [
+                {
+                    "children": [],
+                    "key": "ib1",
+                    "title": "Temperance"
+                },
+                {
+                    "children": [],
+                    "key": "ib2",
+                    "title": "Blue Laws"
+                },
+                {
+                    "children": [
+                    {
+                        "children": [],
+                        "key": "ib3a",
+                        "title": "Marriage"
+                    },
+                    {
+                        "children": [],
+                        "key": "ib3b",
+                        "title": "Parent-Child Relationship"
+                    },
+                    {
+                        "children": [],
+                        "key": "ib3c",
+                        "title": "Family Economic Organization"
+                    }],
+                    "key": "ib3",
+                    "title": "Family Organization"
+                },
+                {
+                    "children": [],
+                    "key": "ib4",
+                    "title": "Religious Customs and Practices"
+                }],
+                "key": "ib",
+                "title": "Mores"
+            },
+            {
+                "children": [],
+                "key": "ic",
+                "title": "Own and Other National or Language Groups"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                        {
+                            "children": [],
+                            "key": "id1a",
+                            "title": "Big Business"
+                        },
+                        {
+                            "children": [],
+                            "key": "id1b",
+                            "title": "Small Business"
+                        }],
+                        "key": "id1",
+                        "title": "Capitalistic Enterprise"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                {
+                                    "children": [],
+                                    "key": "id2a1",
+                                    "title": "Company"
+                                },
+                                {
+                                    "children": [],
+                                    "key": "id2a2",
+                                    "title": "Craft"
+                                },
+                                {
+                                    "children": [],
+                                    "key": "id2a3",
+                                    "title": "Industrial"
+                                },
+                                {
+                                    "children": [],
+                                    "key": "id2a4",
+                                    "title": "Strikes"
+                                }],
+                                "key": "id2a",
+                                "title": "Unions"
+                            },
+                        
+                            {
+                                "children": [],
+                                "key": "id2b",
+                                "title": "Cooperative"
+                            },
+                            {
+                                "children": [],
+                                "key": "id2c",
+                                "title": "Unemployment"
+                            }],
+                        "key": "id2",
+                        "title": "Labor Organization and Activities"
+                    }],
+                "key": "id",
+                "title": "Economic Organization"
+            },
+            {
+                "children": [],
+                "key": "ie",
+                "title": "Social Organization"
+            },
+            {
+                "children": [
+                {
+                    "children": [],
+                    "key": "if1",
+                    "title": "Voting as Blocs"
+                },
+                {
+                    "children": [],
+                    "key": "if2",
+                    "title": "Part Played by Social and Political Societies"
+                },
+                {
+                    "children": [],
+                    "key": "if3",
+                    "title": "Programs and Purposes"
+                },
+                {
+                    "children": [],
+                    "key": "if4",
+                    "title": "Extent of Influence"
+                },
+                {
+                    "children": [],
+                    "key": "if5",
+                    "title": "Political Leadership"
+                },
+                {
+                    "children": [],
+                    "key": "if6",
+                    "title": "Graft and Corruption"
+                }],
+                "key": "if",
+                "title": "Politics"
+            },
+            {
+                "children": [],
+                "key": "ig",
+                "title": "War"
+            },
+            {
+                "children": [],
+                "key": "ih",
+                "title": "Social Problems and Social Legislation"
+            },
+            {
+                "children": [],
+                "key": "ij",
+                "title": "Interpretation of American History"
+            },
+            {
+                "children": [],
+                "key": "ik",
+                "title": "Position of Women and Feminism"
+            },
+            {
+                "children": [],
+                "key": "il",
+                "title": "Agriculture in the United States"
+            },
+            {
+                "children": [],
+                "key": "im",
+                "title": "Health and Sanitation"
+            }],
+        "key": "i",
+        "title": "Attitudes"
+    },
+    {
+        "children": [
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "key": "iia1",
+                        "title": "Professional"
+                    },
+                    {
+                        "children": [],
+                        "key": "iia2",
+                        "title": "Industrial and Commercial"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [],
+                                "key": "iia3a",
+                                "title": "Arts and Handicrafts"
+                            },
+                            {
+                                "children": [],
+                                "key": "iia3b",
+                                "title": "Music"
+                            },
+                            {
+                                "children": [],
+                                "key": "iia3c",
+                                "title": "Painting and Sculpture"
+                            },
+                            {
+                                "children": [
+                                {
+                                    "children": [],
+                                    "key": "iia3d1",
+                                    "title": "Drama"
+                                },
+                                {
+                                    "children": [],
+                                    "key": "iia3d2",
+                                    "title": "Dancing"
+                                }],
+                                "key": "iia3d",
+                                "title": "Theatrical"
+                            }],
+                        "key": "iia3",
+                        "title": "Aesthetic"
+                    }],
+                "key": "iia",
+                "title": "Vocational"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "children": [],
+                                "key": "iib1a",
+                                "title": "Music"
+                            },
+                            {
+                                "children": [],
+                                "key": "iib1b",
+                                "title": "Painting and Sculpture"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "children": [],
+                                        "key": "iib1c1",
+                                        "title": "Drama"
+                                    },
+                                    {
+                                        "children": [],
+                                        "key": "iib1c2",
+                                        "title": "Dancing"
+                                    },
+                                    {
+                                        "children": [],
+                                        "key": "iib1c3",
+                                        "title": "Festivals, Pageants, Fairs and Expositions"
+                                    }],
+                                "key": "iib1c",
+                                "title": "Theatrical"
+                            },
+                            {
+                                "children": [],
+                                "key": "iib1d",
+                                "title": "Literary Societies"
+                            },
+                            {
+                                "children": [],
+                                "key": "iib1e",
+                                "title": "Literature"
+                            }],
+                        "key": "iib1",
+                        "title": "Aesthetic"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [],
+                                "key": "iib2a",
+                                "title": "Libraries"
+                            },
+                            {
+                                "children": [],
+                                "key": "iib2b",
+                                "title": "Museums"
+                            },
+                            {
+                                "children": [],
+                                "key": "iib2c",
+                                "title": "Scientific and Historical Societies"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "children": [],
+                                        "key": "iib2d1",
+                                        "title": "Newspapers"
+                                    },
+                                    {
+                                        "children": [],
+                                        "key": "iib2d2",
+                                        "title": "Periodicals"
+                                    },
+                                    {
+                                        "children": [],
+                                        "key": "iib2d3",
+                                        "title": "Books"
+                                    }],
+                                "key": "iib2d",
+                                "title": "Publications"
+                            },
+                            {
+                                "children": [],
+                                "key": "iib2e",
+                                "title": "Radio Programs and Cinema"
+                            },
+                            {
+                                "children": [],
+                                "key": "iib2f",
+                                "title": "Special Schools and Classes"
+                            },
+                            {
+                                "children": [],
+                                "key": "iib2g",
+                                "title": "Forums, Discussion Groups and Lectures"
+                            }],
+                        "key": "iib2",
+                        "title": "Intellectual"
+                    },
+                    {
+                        "children": [],
+                        "key": "iib3",
+                        "title": "Athletics and Sports"
+                    }],
+                "key": "iib",
+                "title": "Avocational and Intellectual"
+            },
+            {
+                "children": [],
+                "key": "iic",
+                "title": "Permanent Memorials"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "key": "iid1",
+                        "title": "Benevolent Societies"
+                    },
+                    {
+                        "children": [],
+                        "key": "iid10",
+                        "title": "Foreign and Domestic Relief"
+                    },
+                    {
+                        "children": [],
+                        "key": "iid2",
+                        "title": "Insurance Companies"
+                    },
+                    {
+                        "children": [],
+                        "key": "iid3",
+                        "title": "Hospitals, Clinics and Medical Aid"
+                    },
+                    {
+                        "children": [],
+                        "key": "iid4",
+                        "title": "Orphanages and Creches"
+                    },
+                    {
+                        "children": [],
+                        "key": "iid5",
+                        "title": "Homes for the Aged"
+                    },
+                    {
+                        "children": [],
+                        "key": "iid6",
+                        "title": "Settlement Houses and Community Centers"
+                    },
+                    {
+                        "children": [],
+                        "key": "iid7",
+                        "title": "Organizations for Legal Assistance"
+                    },
+                    {
+                        "children": [],
+                        "key": "iid8",
+                        "title": "Employment Agencies"
+                    },
+                    {
+                        "children": [],
+                        "key": "iid9",
+                        "title": "Extra-Legal Organizations"
+                    }],
+                "key": "iid",
+                "title": "Benevolent and Protective Institutions"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "key": "iie1",
+                        "title": "Organized Crime"
+                    },
+                    {
+                        "children": [],
+                        "key": "iie2",
+                        "title": "Individual Crime"
+                    },
+                    {
+                        "children": [],
+                        "key": "iie3",
+                        "title": "Crime Prevention"
+                    }],
+                "key": "iie",
+                "title": "Crime and Delinquency"
+            },
+            {
+                "children": [],
+                "key": "iif",
+                "title": "Real Estate Transfers and Building Activities"
+            }],
+        "key": "ii",
+        "title": "Contributions and Activities"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "key": "iiia",
+                "title": "Segregation"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "key": "iiib1",
+                        "title": "Effect upon United States Government and State Policies"
+                    },
+                    {
+                        "children": [],
+                        "key": "iiib2",
+                        "title": "Activities of Nationalistic Societies"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [],
+                                "key": "iiib3a",
+                                "title": "National"
+                            },
+                            {
+                                "children": [],
+                                "key": "iiib3b",
+                                "title": "Religious"
+                            },
+                            {
+                                "children": [],
+                                "key": "iiib4",
+                                "title": "Conventions and Conferences"
+                            }],
+                        "key": "iiib3",
+                        "title": "Commemoration of Holidays"
+                    }],
+                "key": "iiib",
+                "title": "Nationalistic Societies and Influences"
+            },
+            {
+                "children": [],
+                "key": "iiic",
+                "title": "National Churches and Sects"
+            },
+            {
+                "children": [],
+                "key": "iiid",
+                "title": "Participation in United States Service"
+            },
+            {
+                "children": [],
+                "key": "iiie",
+                "title": "Youth Organizations"
+            },
+            {
+                "children": [],
+                "key": "iiif",
+                "title": "Special Contributions to Early American Development"
+            },
+            {
+                "children": [],
+                "key": "iiig",
+                "title": "Immigration and Emigration"
+            },
+            {
+                "children": [],
+                "key": "iiih",
+                "title": "Relations with Homeland"
+            }],
+        "key": "iii",
+        "title": "Assimilation"
+    },
+    {
+        "children": [],
+        "key": "iv",
+        "title": "Representative Individuals"
+    },
+    {
+        "children": [
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "key": "va1",
+                        "title": "Geographical"
+                    },
+                    {
+                        "children": [],
+                        "key": "va2",
+                        "title": "Social and Occupational"
+                    }],
+                "key": "va",
+                "title": "Foreign Origins"
+            },
+            {
+                "children": [],
+                "key": "vb",
+                "title": "Picturesque Miscellanies "
+            }],
+        "key": "v",
+        "title": "Miscellaneous Characteristics"
+    }
+]

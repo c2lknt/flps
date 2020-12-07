@@ -1,0 +1,82 @@
+{
+    "items": {
+        "5423405_1_0243": {
+            "codes": [
+                "iia1"
+            ],
+            "content": [
+                "The Peruvians in Chicago number about fifty and came seeking higher education. Due to reverses of economical conditions at home some of them got jobs and entered industry. He states that most of them go back to Peru after they obtain their purpose. The majority come from the better class of their respective communities.",
+                "The Peruvian is individualist does not love music, singing or sports, so they do not have clubs, societies etc. A club was formed and dissolved the day it was formed."
+            ],
+            "dateFull": "1937-03-07",
+            "dateText": "Date Unknown",
+            "dateYear": 0,
+            "groups": [
+                "spanish",
+                "peruvian"
+            ],
+            "id": "5423405_1_0243",
+            "title": "Education",
+            "topTitle": "Interview: Dr. Guzman Barron"
+        },
+        "5423405_1_0245": {
+            "codes": [
+                "iia1",
+                "iv"
+            ],
+            "content": [
+                "Born in Huari, Peru, in 1896. Graduated from San Marco University, Lima, as M. D. In 1925 went to the University of Strasbourg, France, on an endowment fellowship for two years and to the Courtauld Institute of London for two years also. During these four years he was in the bio-chemistry department. At the termination of his work in Europe came to America on the Rockefeller Foundation to the Johns Hopkins University. Was a fellow in 1927 and 1928. In 1929 was instructor in medicine at the same University. In 1930 came to the University of Chicago as a research associate in the Department of Medicine. In 1931 was made assistant professor of bio-chemistry.",
+                "In 1932 attended the Physiological Congress in Rome, Italy. In 1935 went to study the physiological effects of higher altitude in Chile. He has worked in jaundice, cell metabolism, and biological oxidation.",
+                "Member of the American Society of Biological Chemists, American Chemical Society, American Association for the Advancement of Science, Society for Experimental Biology and Medicine, and the American Society for Clinical Investigation.",
+                "Married in 1930 to Cora Durkin. Hobbies, reading French classics and social science literature.",
+                "Addresses Delivered by Dr. Guzman",
+                "In Montreal, 1931. Subject: \"Relations between Free Energy and Rate of Reactions.\"",
+                "In Philadelphia, 1933. Subject: \"The Oxidation of Lactic Acid.\"",
+                "In New York, 1934. Subject: \"The Oxidation Reduction Potentials of Lactoflosin.\"",
+                "In Chicago, 1934; before the American Chemical Society. Subject: Oxidation Reduction Potential of Biological Importance.\"",
+                "In Detroit, 1935. Subject: \"The Oxidation Reduction Potential of Cyanide Hemochromogen.\"",
+                "In Boston, 1935, at the Harvard Medical School. Subject: \"Biological Oxidation.\"",
+                "In Baltimore, 1936. At the Summer School of Bio-Chemistry, Johns Hopkins University. Subject: \"Cellular Respiration.\"",
+                "In Chicago, 1936, at the National Academy of Sciences. Subject: \"The Oxidation Reduction Potential of Hemen and Hemochromogens.\"",
+                "In Lima, Peru, 1934. Three lectures in the Academia Nacional de Medicina on jaundice and cell respiration.",
+                "In Santiago, Chile, 1935. Subject: \"Biological Oxidation.\"",
+                "Has published papers in the Journal of the American Chemical Society, Journal of General Physiology, Biological Bulletin, American Journal of Physiology, Journal of Clinical Investigation, Journal of Experimental Medicine, Proceedings of the Society of Experimental Biology and Medicine, Science, Medicine, Cronica Medica (Lima, Peru), Actualidad Medica (Lima, Peru), Revista de la Sociedad Medica Carrim (Lima, Peru), and Boletin de la Sociedad Quimica (Lima, Peru)."
+            ],
+            "dateFull": "1937-03-11",
+            "dateText": "Mar. 11, 1937",
+            "dateYear": "1937",
+            "groups": [
+                "spanish",
+                "peruvia"
+            ],
+            "id": "5423405_1_0245",
+            "title": "[A Peruvian-American Scientist]",
+            "topTitle": "Interview, with Dr. E. S. Guzman Barron"
+        }
+    },
+    "dates": [
+        {
+            "0": [
+                "5423405_1_0243"
+            ],
+            "1937": [
+                "5423405_1_0245"
+            ]
+        }
+    ],
+    "codes": [
+        {
+            "iia1": [
+                "5423405_1_0243",
+                "5423405_1_0245"
+            ],
+            "iv": [
+                "5423405_1_0245"
+            ]
+        }
+    ],
+    "values": [
+        "peruvian",
+        "peruvia"
+    ]
+}

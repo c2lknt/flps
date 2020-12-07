@@ -1,0 +1,45 @@
+{
+    "items": {
+        "5423405_1_0249": {
+            "codes": [
+                "iia1",
+                "iiig"
+            ],
+            "content": [
+                "Mr. Saboya estimates the number of Brazilians in Chicago at five. He came here fourteen months ago and before taking charge of the office there were no records in the office.",
+                "Mr. De Moreas is export manager for the Belmont Radio Corporation; Mr. Henly C. Hill is secretary of the Rotary Club and lives at 636 Addison street; his office telephone number is State 4020.",
+                "These are the only Brazilians that are known to the Consulate."
+            ],
+            "dateFull": "1936-12",
+            "dateText": "Dec. , 1936",
+            "dateYear": "1936",
+            "groups": [
+                "spanish",
+                "brazilian"
+            ],
+            "id": "5423405_1_0249",
+            "title": "Interview with Mr. Alfred Saboya",
+            "topTitle": ""
+        }
+    },
+    "dates": [
+        {
+            "1936": [
+                "5423405_1_0249"
+            ]
+        }
+    ],
+    "codes": [
+        {
+            "iia1": [
+                "5423405_1_0249"
+            ],
+            "iiig": [
+                "5423405_1_0249"
+            ]
+        }
+    ],
+    "values": [
+        "brazilian"
+    ]
+}

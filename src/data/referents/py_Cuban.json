@@ -1,0 +1,107 @@
+{
+    "items": {
+        "5423405_1_0260": {
+            "codes": [
+                "iia2",
+                "iv"
+            ],
+            "content": [
+                "Our company imports green coffee, olive oil, olives, paprika, anchovies, etc., from Spain, Colombia, Venezuela and Mexico.",
+                "I founded this company in October, 1922. I am a Cuban citizen and I have been a resident of Chicago since 1917.",
+                "We do business with the principal commercial houses of the United States.",
+                "In 1933 I founded the Spanish Mine Company, of which I am also president. We import the finest wines produced in Spain; Muscatel, Claret, Burgundy, Corona etc.",
+                "In the last few months, due to the civil war in Spain, our business is at a stand-still and we are meeting orders from our warehouses only."
+            ],
+            "dateFull": "1936-12-22",
+            "dateText": "Date Unknown",
+            "dateYear": 0,
+            "groups": [
+                "spanish",
+                "cuban"
+            ],
+            "id": "5423405_1_0260",
+            "title": "Interview with Manual Pando",
+            "topTitle": ""
+        },
+        "5423405_2_0202": {
+            "codes": [
+                "iiib2",
+                "iiih"
+            ],
+            "content": [
+                "Scarcely fifteen days have elapsed since the organization of the Chicago Cuban Association, but never-the-less its members find themselves in the midst of social activities. The first of these is to be a creole dinner. The Directing Committee has decided that this affair shall be typical of the members who make up this most worthy Association; namely, a genuine Cuban dinner. For this affair the members felt that no better setting could be had than the Cuban Restaurant, recently opened and located at 802 North Dearborn.",
+                "It has been quite some time since the Cuban Colony has been able to come together as a body and enjoy themselves thru the activities of so novel an association. For many, the large attendance at this function will be a surprise since they have no idea of the true number of Cubans who live in this city, many more than was estimated, even by the worthy organizers of the Association.",
+                "The idea of the honorable Consul is being crystalized and the day is not far away when we all will recognize the invaluableness of his efforts on behalf of his fellowmen. In this connection he has had splendid cooperation from a number of our friends who have been putting forth their best efforts in order to obtain the desired results.",
+                "In our next edition we will publish additional details which we will not mention now, because of lack of space. Often we receive such pleasing news when our edition is on the press."
+            ],
+            "dateFull": "1932-03-03",
+            "dateText": "Mar. 3, 1932",
+            "dateYear": "1932",
+            "groups": [
+                "spanish",
+                "cuban"
+            ],
+            "id": "5423405_2_0202",
+            "title": "Cuban Association of Chicago",
+            "topTitle": "El Nacional"
+        },
+        "5423405_2_0204": {
+            "codes": [
+                "iiib2",
+                "iiih"
+            ],
+            "content": [
+                "The new Cuban Consul for Chicago, Mr. Ursulo J. Dobal, has taken active part in forming the \"Cuban Association\", the idea having grown out of his plans to bring together Cuban residents who for one reason or another have found themselves quite disorganized in this city. He did not make this move until he found how many there were to be considered.",
+                "The Consul said that the idea of forming the Association came to him the first of this month and he consulted a group of countrymen with respect to such laudable proposition, and immediately the idea was accepted with warm enthusiasm, principally by our friend of the press Mr. Ramon Gonzales, who as a resident there for some time, took the first steps in going to his friends and securing the names and addresses of a large number of Cubans. Without loss of time the Consul called a meeting which was held last Sunday at 4 P.M. in the office of the Consulate where more than forty persons assembled, without any one wishing to excuse themselves for the impossibility of not being able to take part in the movement.",
+                "According to information which we have, almost all of those invited came. Those fellowmen who did not come will be given the details of the meeting by those who were present, lack of proper notice due to faulty address was given as the reason of their absence.",
+                "In order to discuss and understand the project of the Consul, at the appointed hour, the Cubans arrived and organized themselves. The meeting was a complete success, as we have been informed, because there was a united spirit of confraternity among those who took part. The project was fully discussed and definite plans made by the assembly. The voting which indicated that the name of the association should be \"Asociacion Cubana de Chicago, was unanimous and the name put into use at once.",
+                "In order to get the full purpose and future plans of the association before the members, a Directing Committee of three persons was appointed. This committee personnel included the Honorable Consul, our esteemed Dr. Luis A. Vanrell, and our companion Ramon Gonzales.",
+                "At 6:30 P. M. the meeting ended and everyone went away rejoicing and commenting on the initiative of the Consul who is entitled to much praise.",
+                "He had resolved to form an association that was a need not only from the aspect of national pride but for purpose of social development.",
+                "El Nacional takes pride in the formation of this new association, and extends many wishes for is continuation."
+            ],
+            "dateFull": "1932-02-27",
+            "dateText": "Feb. 27, 1932",
+            "dateYear": "1932",
+            "groups": [
+                "spanish",
+                "cuban"
+            ],
+            "id": "5423405_2_0204",
+            "title": "New Cuban Association",
+            "topTitle": "El Nacional"
+        }
+    },
+    "dates": [
+        {
+            "0": [
+                "5423405_1_0260"
+            ],
+            "1932": [
+                "5423405_2_0202",
+                "5423405_2_0204"
+            ]
+        }
+    ],
+    "codes": [
+        {
+            "iia2": [
+                "5423405_1_0260"
+            ],
+            "iv": [
+                "5423405_1_0260"
+            ],
+            "iiib2": [
+                "5423405_2_0202",
+                "5423405_2_0204"
+            ],
+            "iiih": [
+                "5423405_2_0202",
+                "5423405_2_0204"
+            ]
+        }
+    ],
+    "values": [
+        "cuban"
+    ]
+}

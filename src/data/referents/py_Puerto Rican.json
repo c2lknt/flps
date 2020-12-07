@@ -1,0 +1,39 @@
+{
+    "items": {
+        "5423405_1_0847": {
+            "codes": [
+                "iie2"
+            ],
+            "content": [
+                "Yesterday at two o'clock in the afternoon, the first investigation of the death of Jerry Brosman, who lived at 1802 W. North Avenue, took place at the County Morgue. Brosman was shot to death Thursday, by a Porto Rican named Santiago Rivera, who told the authorities that he killed Brosman when the latter tried to attack his mother. Brosman was in charge of the house in which young Rivera and his mother lived."
+            ],
+            "dateFull": "1931-08-29",
+            "dateText": "Aug. 29, 1931",
+            "dateYear": "1931",
+            "groups": [
+                "spanish",
+                "portorican"
+            ],
+            "id": "5423405_1_0847",
+            "title": "Murder",
+            "topTitle": "El Nacional"
+        }
+    },
+    "dates": [
+        {
+            "1931": [
+                "5423405_1_0847"
+            ]
+        }
+    ],
+    "codes": [
+        {
+            "iie2": [
+                "5423405_1_0847"
+            ]
+        }
+    ],
+    "values": [
+        "portorican"
+    ]
+}

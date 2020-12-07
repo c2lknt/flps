@@ -1,0 +1,70 @@
+{
+    "items": {
+        "5423966_0053": {
+            "codes": [
+                "ic",
+                "iiib2"
+            ],
+            "content": [
+                "Our greatest ideal of strong unity among Serbians, Croatians and Slovenes never has been accomplished. It seems that the cement which we need to bring complete unity was lacking, and it was mutual understanding between not the race, but different classes. This grave problem at least was solved, as it concerns Chicago colonies, by organizing a Jugoslav club, which has just recently opened the door to members and friends, and is already showing noticeable progress.",
+                "The first meeting, which the organized group held in the Morrison Hotel, brought a great number of our people. We are happy to advise our people that as far as we can remember, there was not a single occasion where people of different social, business, or professional standing met together, as it was seen on this meeting of the Jugoslav club.",
+                "Doctors, engineers, priests, businessmen small and big, common laborers, etc., all united by the great problem of national unity, mixed together and showed most desirable equality.",
+                "The main object of this club, as we already announced, is promotion of national unity, but as we have been informed, the club will have quite a large activity in the way of organizing our groups in the way of financial, political, educational cooperation.",
+                "Ugljeska Pupich, Secretary."
+            ],
+            "dateFull": "1930-07-03",
+            "dateText": "July 3, 1930",
+            "dateYear": "1930",
+            "groups": [
+                "serbian",
+                "montenegrin"
+            ],
+            "id": "5423966_0053",
+            "title": "Jugoslav Club in Chicago",
+            "topTitle": "Pravda"
+        },
+        "5423966_0133": {
+            "codes": [
+                "iiib3a"
+            ],
+            "content": [
+                "Every year, for generations, we Serbs and Montenegrins celebrate our national holiday Vidov-Dan. This year, as usually, the celebration was held on June 29. All proceeds will be turned to the treasury of our church for a new church building. Vidov-Dan has a sad memory in our hearts. On this date in 1389 we lost our kingdom and on the same date, a few centuries after, we established our free country, when two of our enemies, Turks and Hungarians, lost their kingdom.",
+                "After the church rites, all people present formed a long procession, with a band playing and a choir singing national tunes. Thousands of people joined this procession on its way to Viker Park Hall, where the official celebration was progressing with a dinner and special entertainment. Plenty of money has been collected for the church fund. Our singing society 'Branko Radichevich' sang many songs to everybody's delight."
+            ],
+            "dateFull": "1930-07-03",
+            "dateText": "July 3, 1930",
+            "dateYear": "1930",
+            "groups": [
+                "serbian",
+                "montenegrin"
+            ],
+            "id": "5423966_0133",
+            "title": "Celebration of Vidov-Dan in Chicago",
+            "topTitle": "Pravda"
+        }
+    },
+    "dates": [
+        {
+            "1930": [
+                "5423966_0053",
+                "5423966_0133"
+            ]
+        }
+    ],
+    "codes": [
+        {
+            "ic": [
+                "5423966_0053"
+            ],
+            "iiib2": [
+                "5423966_0053"
+            ],
+            "iiib3a": [
+                "5423966_0133"
+            ]
+        }
+    ],
+    "values": [
+        "montenegrin"
+    ]
+}
